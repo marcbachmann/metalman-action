@@ -1,5 +1,7 @@
 # metalman-action
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcbachmann/metalman-action.svg)](https://greenkeeper.io/)
+
 An action middleware for the metalman module.
 
 ```js
