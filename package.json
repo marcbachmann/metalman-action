@@ -1,6 +1,6 @@
 {
   "name": "metalman-action",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An action middleware for the metalman module.",
   "keywords": ["metalman", "middleware", "action", "execute"],
   "main": "index.js",
