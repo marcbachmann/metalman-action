@@ -15,7 +15,7 @@
   "author": "Marc Bachmann <marc.brookman@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "metalman": "^2.0.0",
+    "metalman": "^3.0.0",
     "standard": "^11.0.0"
   },
   "repository": {
